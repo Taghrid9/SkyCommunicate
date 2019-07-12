@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#582652</color>
+    <color name="colorPrimaryDark">#492045</color>
+    <color name="colorAccent">#086c5f</color>
+    <color name="chatColor">#73446D</color>
+    <color name="backGroundPrimary">@color/background_material_light</color>
+
+
+    <color name="Gray"> #CDAEAEAE </color>
+
+    <color name="gray2"> #9CD5D3D3</color>
+
+    <color name="porp"> #B773446D </color>
+
+    <color name="colorLink">#045a4f</color>
+    <color name="colorStart">#E6361032</color>
+
+    <color name="colorTestStart">#452141</color>
+
+    <color name="test">#582652</color>
+
+
+
+</resources>
+

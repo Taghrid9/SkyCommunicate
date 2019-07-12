@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "863939070462",
+    "firebase_url": "https://skycommunicate-cdda5.firebaseio.com",
+    "project_id": "skycommunicate-cdda5",
+    "storage_bucket": "skycommunicate-cdda5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863939070462:android:1821881a3b36998d",
+        "android_client_info": {
+          "package_name": "sc.skycommunicate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "863939070462-aomslc02k95no4ou8cmb8fent8lii01n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sc.skycommunicate",
+            "certificate_hash": "c59a7e94a08c5b2a03d04791fbac3e17fb051963"
+          }
+        },
+        {
+          "client_id": "863939070462-3cgbc3640f668qvtta6sk1gt09g36kvo.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "863939070462-3cgbc3640f668qvtta6sk1gt09g36kvo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0plY9shp06y-WHulOAYvrq7BYY-R5dKQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "863939070462-3cgbc3640f668qvtta6sk1gt09g36kvo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
